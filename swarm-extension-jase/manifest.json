@@ -1,0 +1,28 @@
+{
+    "manifest_version": 1,
+    "api_version": 20191,
+    "script_runtime": {
+        "language": "Lua",
+        "version": "5.3"
+    },
+    "key": "4532BC59-7BC8-478F-ADF6-0A563C42563D",
+    "name": "helix-swarm",
+    "namespace": "Perforce",
+    "version": "2023.1_Jase",
+    "version_name": "2023.1_Jase",
+    "description": "Helix Swarm Extension with modification to ignore changelists with #noswarm in the description.",
+    "compatible_products": [
+        "p4d"
+    ],
+    "default_locale": "en",
+    "supported_locales": [
+        "en"
+    ],
+    "developer": {
+        "name": "Perforce Software Inc",
+        "url": "https://www.perforce.com/"
+    },
+    "homepage_url": "https://www.perforce.com/products/helix-swarm",
+    "license": "MIT",
+    "license_body": "Copyright 2023, Perforce Software"
+}
